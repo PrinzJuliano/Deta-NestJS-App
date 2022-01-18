@@ -47,4 +47,4 @@ $ deta deploy
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+This Project is [MIT licensed](LICENSE.md).
