@@ -37,6 +37,10 @@ $ yarn run test:cov
 
 ## Build and Deploy
 
+> These steps assume you already have added _Deta Micros_ to your Project.  
+> * https://deta.sh 
+> * https://docs.deta.sh/docs/micros/getting_started
+
 ```bash
 # build
 $ yarn build
