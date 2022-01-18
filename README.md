@@ -47,4 +47,6 @@ $ deta deploy
 
 ## License
 
-This Project is [MIT licensed](LICENSE.md).
+This Project is [MIT licensed](LICENSE.md).  
+Please review the [License of NestJS](https://github.com/nestjs/nest/blob/master/LICENSE) which this example is based on.  
+Based on [nestjs/typescript-starter](https://github.com/nestjs/typescript-starter.git)
